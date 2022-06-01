@@ -1,5 +1,3 @@
-from ast import Break
-from pickle import TRUE
 import random
 
 possible_actions = ["R", "P", "S"]
